@@ -1,1 +1,28 @@
-月
+Anti cheating verification code is=:229347328
+Floating-point precision 1362979602959.09040000000000000000000000000000000000
+Anti cheating verification code is=274347328
+Floating-point precision 1490709044570.75020000000000000000000000000000000000
+Total time 332.700000 seconds 
+The less the time it is used, the more the performance becomes strongert!
+Press Enter to exit
+real    5m 38.40s
+user    5m 11.53s
+sys     0m 21.24s
+# cat /proc
+Processor       : ARMv7 Processor rev 0 (v7l)
+processor       : 0
+BogoMIPS        : 1595.80
+
+processor       : 1
+BogoMIPS        : 1595.80
+
+Features        : swp half thumb fastmult edsp 
+CPU implementer : 0x41
+CPU architecture: 7
+CPU variant     : 0x3
+CPU part        : 0xc09
+CPU revision    : 0
+
+Hardware        : Northstar Prototype
+Revision        : 0000
+Serial          : 0000000000000000
