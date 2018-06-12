@@ -1,3 +1,4 @@
+Because GitHub upload file failed, please visit https://gitee.com/test386/test for executable file and processor test results
 # Third-party cross-platform CPU performance test
 # Project Introduction
 I found that the godson performance water is very large, that spec2006 scores of serious fraud, can not retest, so the performance test program, used to open a fair test of all human CPU, including 51 single-chip microcomputer, this procedure can go up in 51 Line no problem!
